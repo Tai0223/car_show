@@ -1,0 +1,52 @@
+<!doctype html>
+<html>
+　<head>
+　　我是標頭
+　</head>
+　<body>
+　　我是主體
+　</body>
+</html>
+
+
+(基本結構)
+
+background	URL	設置網頁的背景圖片位址或網址
+bgcolor	colorname
+rgb:#00000	規定網頁的背景顏色，colorname為顏色名稱，rgb為三原色的值，例bgcolor="#0000FF" 設置為藍色
+text	colorname
+rgb:#00000	規定網頁的文字顏色，colorname為顏色名稱，rgb為三原色的值，例text="#0000FF" 設置為藍色
+link	colorname
+rgb:#00000	規定尚未瀏覽的連結之文字顏色，colorname為顏色名稱，rgb為三原色的值，例link="#0000FF" 設置為藍色
+alink	colorname
+rgb:#00000	規定已點選連結之文字顏色，colorname為顏色名稱，rgb為三原色的值，例alink="#0000FF" 設置為藍色
+vlink	colorname
+rgb:#00000	規定已瀏覽過的文字顏色，colorname為顏色名稱，rgb為三原色的值，例vlink="#0000FF" 設置為藍色
+
+<a href="https://dotblogs.com.tw/ggn">上書府</a>  連結網址模式
+
+
+<h1> </h1> ~ h6 字體大小
+
+<p> align="left / center / right" </p> 置中or....
+
+<pre> </pre>  使空格、換行成真 不用<br>
+
+<hr> =水平線
+
+<bolckquote> </bolckquote> 縮排功能 
+
+<ul> </ul> 用在有圖案的標題排序上
+<ol> </ol> 用在數字、英文等等編號
+
+<dl> </dl> = 分大項目(類似資料夾)
+<dt> </dt> = 主題大項
+<dl> </dl> = 主題小項
+
+<font size="5"> 這裡字體大小為5 </font>
+<font face="標楷體"> 這裡字是標楷體 </font>
+
+<dd style="font-size:12px">字型大小為12px</dd>
+<dd style="font-family:標楷體">字型樣式為標楷體</dd>
+<p style="text-align:center">使用style來置中文字</p>
+<body style="background-color:yellow"> style來選擇背景顏色

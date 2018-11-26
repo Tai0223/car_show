@@ -1,0 +1,28 @@
+<!doctype html>
+<html>
+　<head>
+　　<title>【HTML】新手入門第7篇 文字格式</title>
+　</head>
+　<body>
+   <pre>
+    <b>粗體</b>
+    <i>斜體</i>
+    <u>底線</u>
+    <s>刪除線</s>
+    <mark>螢光標示</mark>
+    <strong>強調粗體</strong>
+    <em>強調斜體</em>
+    <dfn>定義</dfn>
+    <q>引用語</q>
+    <cite>引用文字</cite>
+    <kbd>鍵盤字</kbd>
+    <abbr>縮寫文字</abbr>
+    <var>變數文字</var>
+    <samp>範例文字</samp>
+    <code>程式碼文字</code>
+    <small>小字型</small>正常字型
+    <sub>下標</sub> X<sub>2</sub>
+    <sup>上標</sup> X<sup>2</sup>
+   </pre>
+　</body>
+</html>
